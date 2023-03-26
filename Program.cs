@@ -17,7 +17,7 @@ for (int i=0; i<array.Length;i++){
   }
 
 }
-WriteLine (array.Length);
+// WriteLine (array.Length);
 string [] res = new string [size];
  for (int n =0; n<array.Length;n++){
   if (array[n].Length<4){

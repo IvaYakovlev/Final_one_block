@@ -1,0 +1,15 @@
+C:\Users\Ivan\Desktop\Python обучение\5_Final\Reshenie\bin\Debug\net6.0\Reshenie.exe
+C:\Users\Ivan\Desktop\Python обучение\5_Final\Reshenie\bin\Debug\net6.0\Reshenie.deps.json
+C:\Users\Ivan\Desktop\Python обучение\5_Final\Reshenie\bin\Debug\net6.0\Reshenie.runtimeconfig.json
+C:\Users\Ivan\Desktop\Python обучение\5_Final\Reshenie\bin\Debug\net6.0\Reshenie.dll
+C:\Users\Ivan\Desktop\Python обучение\5_Final\Reshenie\bin\Debug\net6.0\Reshenie.pdb
+C:\Users\Ivan\Desktop\Python обучение\5_Final\Reshenie\obj\Debug\net6.0\Reshenie.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\Python обучение\5_Final\Reshenie\obj\Debug\net6.0\Reshenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\Python обучение\5_Final\Reshenie\obj\Debug\net6.0\Reshenie.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\Python обучение\5_Final\Reshenie\obj\Debug\net6.0\Reshenie.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\Python обучение\5_Final\Reshenie\obj\Debug\net6.0\Reshenie.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\Python обучение\5_Final\Reshenie\obj\Debug\net6.0\Reshenie.dll
+C:\Users\Ivan\Desktop\Python обучение\5_Final\Reshenie\obj\Debug\net6.0\refint\Reshenie.dll
+C:\Users\Ivan\Desktop\Python обучение\5_Final\Reshenie\obj\Debug\net6.0\Reshenie.pdb
+C:\Users\Ivan\Desktop\Python обучение\5_Final\Reshenie\obj\Debug\net6.0\Reshenie.genruntimeconfig.cache
+C:\Users\Ivan\Desktop\Python обучение\5_Final\Reshenie\obj\Debug\net6.0\ref\Reshenie.dll
